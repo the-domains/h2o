@@ -1,0 +1,28 @@
+name: h2o
+favicon: null
+layout_spectrum: 0.1686104666441679
+typography_spectrum: 0.24849908822216094
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6934570255689323
+  lightness: 0.49808036512695253
+  saturation: 0.5615404949057847
+  rhythmicContrast: 0.13547972380183637
+purpose: []
